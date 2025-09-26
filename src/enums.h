@@ -330,7 +330,7 @@ typedef enum {
   QOI_GROUP_13 = 33,
   QOI_GROUP_14 = 34,
   QOI_GROUP_15 = 35,
-  QOI_GROUP_16 = 36
+  QOI_GROUP_16 = 64
 } CS101_QualifierOfInterrogation;
 
 /**
